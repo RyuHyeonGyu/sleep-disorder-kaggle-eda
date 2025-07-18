@@ -36,13 +36,13 @@
 
 다음과 같은 Python 라이브러리가 필요합니다:
 
-```bash
-pandas
-matplotlib
-seaborn
-plotly
-termcolor
-scikit-learn
+
+- pandas
+- matplotlib
+- seaborn
+- plotly
+- termcolor
+- scikit-learn
 
 
 ---
