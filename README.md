@@ -44,7 +44,10 @@ plotly
 termcolor
 scikit-learn
 
-# 💤 Sleep Disorder EDA (Exploratory Data Analysis)
+
+---
+
+## 💤 Sleep Disorder EDA (Exploratory Data Analysis)
 
 This repository contains Python code for exploring and visualizing a dataset related to sleep disorders and lifestyle/health factors.  
 The goal is to identify patterns related to sleep disorders using statistical summaries and visual analysis.
@@ -88,4 +91,5 @@ seaborn
 plotly
 termcolor
 scikit-learn
+
 
